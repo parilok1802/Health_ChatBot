@@ -1,0 +1,7 @@
+# install
+#!pip install streamlit openai
+
+
+# run command
+#streamlit run app.py --server.headless true --server.port 8502
+
